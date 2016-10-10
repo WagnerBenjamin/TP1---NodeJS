@@ -8,6 +8,7 @@ Nous avions à réutiliser 5 notions vues lors des premiers cours:
 - File System
 
 INSTRUCTIONS D'UTILISATION
+
 1) Avoir NodeJS installé (https://nodejs.org/)
 2) Executer la commande 'npm install' a la racine du projet
 3) Lancer l'API dans un terminal via la commande 'node API.js'
